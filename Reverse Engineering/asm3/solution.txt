@@ -1,0 +1,25 @@
+asm3(0xfe8cf7a4, 0xf55018af, 0xb8c70926)
+
+[ebp+8] = 0xfe8cf7a4
+[ebp+12] = 0xf55018af
+[ebp+16] = 0xb8c70926
+
+Stack layout
+============
+ebp   00 00 00 00  00 00 00 00
++8    a4 f7 8c fe  af 18 50 f5
++16   26 09 c7 b8  00 00 00 00
+
+                ax
+              ah  al
+eax:  00  00  50  e8
+
+Steps:
+• ah = [ebp+9] (0xf7)
+• ax <<= 0x10
+• al -= [ebp+13] (0 - 0x18 = 0xe8)
+• ah += [ebp+14] (0 + 0x50 = 0x50)
+• ax ^= [ebp+18] (0x50e8 ^ 0xb8c7 = 0xe82f)
+• Return eax
+
+Flag: 0xe82f

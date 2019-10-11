@@ -1,0 +1,14 @@
+Python
+======
+from pwn import process
+p = process("./times-up")
+ans = str(eval(p.recvline()[10:]))
+print("Answer:", ans)
+print(p.recv())
+p.sendline(ans)
+print(p.recvline())
+exit(p.recvline())
+
+Flag
+====
+picoCTF{Gotta go fast. Gotta go FAST. #3daa579a}

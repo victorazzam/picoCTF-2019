@@ -1,0 +1,23 @@
+asm2(0x7, 0x18)
+
+[ebp+8] = 0x18
+[ebp+12] = 0x7
+
+Steps:
+• [ebp-4] = [ebp+12] (0x7)
+• [ebp-8] = [ebp+8] (0x18)
+• While [ebp-8] is less than 0x3937:
+  • [ebp-4] += 1
+  • [ebp-8] += 0xcc
+• eax = [ebp-4]
+• Return eax
+
+Flag: 0x4f
+
+Python script
+=============
+a, b = 7, 24
+while b < 0x3937:
+	a += 1
+	b += 0xcc
+print(hex(a))

@@ -1,0 +1,55 @@
+Python
+======
+>>> data = "picoCTF{w1{1wq80haib767}"
+>>> flag = ""
+>>> for i in range(8, 23):
+...     if i % 2:
+...             flag += chr(ord(data[i]) + 2)
+...     else:
+...             flag += chr(ord(data[i]) - 5)
+>>> flag
+'r3v3rs32ccdd282'
+
+
+
+Flag
+====
+picoCTF{r3v3rs32ccdd282}
+
+
+
+Reverse of main
+===============
+int main() {
+    var_18 = fopen("flag.txt", 0x2008);
+    var_20 = fopen("rev_this", 0x2013);
+    if (var_18 == 0x0) {
+            puts("No flag found, please make sure this is run on the server");
+    }
+    if (var_20 == 0x0) {
+            puts("please run this on the server");
+    }
+    rax = fread(&var_50, 0x18, 0x1, var_18);
+    if (rax <= 0x0) {
+            rax = exit(0x0);
+    }
+    else {
+            for (i = 0; i < 8; i++) {
+                    fputc(rbp[i - 0x50], var_20);
+            }
+            for (i = 8; i < 23; i++) {
+                    tmp = rbp[i - 0x50];
+                    if (i & 1 == 0) {     // even
+                            tmp += 5;
+                    }
+                    else {                // odd
+                            tmp -= 2;
+                    }
+                    fputc(tmp, var_20);
+            }
+            fputc(var_39, var_20);
+            fclose(var_20);
+            rax = fclose(var_18);
+    }
+    return rax;
+}

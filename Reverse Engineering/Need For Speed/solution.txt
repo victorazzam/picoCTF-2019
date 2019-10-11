@@ -1,0 +1,4 @@
+• The function calculate_key() tries to take forever by purposely counting down from 0xd33af10e to 0xe99d7887
+• Patch the binary by changing the four byte address at offset 0x848 from 0xd33af10e to 0xe99d7888
+
+PICOCTF{Good job keeping bus #3b89d39c speeding along!}

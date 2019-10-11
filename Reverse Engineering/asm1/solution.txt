@@ -1,0 +1,13 @@
+asm1(0x1b4)
+
+[ebp+8] = 0x1b4
+
+Steps:
+• Compare [ebp+8] to 0x421. Less, so don't jump.
+• Compare [ebp+8] to 0x1b4. Equal, so don't jump.
+• eax = [ebp+8]
+• eax += 0x13 (0x1b4 + 0x13 = 0x1c7)
+• Jump to end.
+• Return eax (0x1c7)
+
+Flag: 0x1c7

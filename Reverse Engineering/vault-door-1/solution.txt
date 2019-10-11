@@ -1,0 +1,4 @@
+$ cat VaultDoor1.java | tail -34 | head -32 | sort -V | awk '{print $3}' | tr -d "'\n"
+d35cr4mbl3_tH3_cH4r4cT3r5_82e029;
+
+Flag: picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_82e029}
