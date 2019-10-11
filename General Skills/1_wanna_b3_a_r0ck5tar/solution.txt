@@ -1,0 +1,5 @@
+Remove all IF/ELSE/BREAK lines.
+Paste the code into https://codewithrockstar.com/online
+Output: 66 79 78 74 79 86 73
+Convert the output into ASCII to get the flag!
+Final flag: picoCTF{BONJOVI}

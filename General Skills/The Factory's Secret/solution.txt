@@ -1,0 +1,3 @@
+password: xmfv53uqkf621gakvh502gxfu1g78glds
+
+picoCTF{zerozerozerozero}

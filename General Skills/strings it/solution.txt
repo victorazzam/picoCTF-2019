@@ -1,0 +1,2 @@
+$ strings strings | grep picoCTF
+picoCTF{5tRIng5_1T_30be4706}

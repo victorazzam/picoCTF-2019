@@ -1,0 +1,4 @@
+Paste the Rockstar code into https://codewithrockstar.com/online
+Output: 114 114 114 111 99 107 110 114 110 48 49 49 51 114
+Convert the output into ASCII to get the flag!
+Final flag: picoCTF{rrrocknrn0113r}

@@ -1,0 +1,28 @@
+Steps
+=====
+• Download the Unity game data from the browser network requests tab
+• Do: pip install brotli
+• Decompress the data and look for "password"
+
+>>> import brotli
+>>> data = open("20190927-2231.data.unityweb", "rb").read()
+>>> a = brotli.decompress(data)
+>>> a[:100]
+b'UnityWebData1.0\x00\xf0\x00\x00\x00\xf0\x00\x00\x00\xdc\x863\x00!\x00\x00\x00Resources/unity_default_resources\xcc\x873\x00\xe9k\x00\x00\x1f\x00\x00\x00Managed/mono/2.0/machin'
+>>> b = [i for i in range(len(a)) if a[i:i+8] == b"password"]
+>>> b
+[3402498, 3402624, 3402651, 3479456, 3516130, 3760593, 3764597, 13310815]
+>>> for y, i in enumerate(b):
+...     print(f"Match {y+1}: {a[i:i+128]}")
+...
+Match 1: b'passwordFormat="Hashed" maxInvalidPasswordAttempts="5" minRequiredPasswordLength="7" minRequiredNonalphanumericCharacters="1" pa'
+Match 2: b'passwordAttemptWindow="10" passwordStrengthRegularExpression=""/>\n\t\t\t\t<!-- <add name="AspNetSqlMembershipProvider" type="Mainsof'
+Match 3: b'passwordStrengthRegularExpression=""/>\n\t\t\t\t<!-- <add name="AspNetSqlMembershipProvider" type="Mainsoft.Web.Security.GenericMembe'
+Match 4: b'passwordxmfv53uqkf621gakvh502gxfu1g78glds({0:F1}, {1:F1}, {2:F1}, {3:F1})> YAuthentication neededQuestion ID not found, skipping'
+Match 5: b'passwordpico94b98f68b2cea8eec7dcd20f812380e2f10fb4acffc88860e81fb1915ef7a3benativeInputDialogProblempicoCTF{FLAG}nativeInputDial'
+Match 6: b'password\x00<WebGLSubmit>d__9\x00StaticData\x00ColorHexFromName\x00ColorFromName\x00GetProgressFromScore\x00progress\x00GetProgressPercentage\x00current'
+Match 7: b'password\x00_salt\x00_basicAuth64\x00setScoreOverride\x00setScore\x00scoreOverridden\x00overrideScore\x00walkthroughQuery\x00subscribedToLoading\x00subscri'
+Match 8: b'password\xc8\x01\x006\x00\x00\x99\x01\xff194b98f68b2cea8eec7dcd20f812380e2f10fb4acffc88860e81fb1915ef7a3be\xa6\x01\x01\x1f?\xe8\x01\x14\x0fx\x0b\r\x1f@H\x00\n.\x8fC\x90\xcc\x0fH\x00\x03\x1f\xe0\xc0\x01\x14\x1fB\xc8\x164\x1fDH\x00\n\x00\xe4\x11?`'
+
+• Match 4 has the correct password
+• It isn't usable until all the glyphs are found, but interesting nonetheless
