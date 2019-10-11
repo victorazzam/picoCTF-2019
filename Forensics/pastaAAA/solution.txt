@@ -1,0 +1,4 @@
+• StegSolve.jar should do it
+• Someone on Discord said that S = $
+
+Flag: picoCTF{pa$ta_1s_lyf3}

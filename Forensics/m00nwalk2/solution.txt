@@ -1,0 +1,5 @@
+• Decode clue1.wav
+• Password: hidden_stegosaurus
+• steghide extract -sf message.wav
+
+Flag: picoCTF{the_answer_lies_hidden_in_plain_sight}

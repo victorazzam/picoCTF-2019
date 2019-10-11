@@ -1,0 +1,4 @@
+• Get an SSTV (Slow-Scan Television) decoder
+• Play the sounds and wait for the image
+
+Flag: picoCTF{beep_boop_im_in_space}

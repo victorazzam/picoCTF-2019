@@ -1,0 +1,2 @@
+$ tshark -r capture.pcap -q -z follow,udp,ascii,6 | tail -54 | awk 'NR % 2 > 0' | tr -d '\n'
+picoCTF{StaT31355_636f6e6e}
