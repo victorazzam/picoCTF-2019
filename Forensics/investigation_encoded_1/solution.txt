@@ -1,0 +1,85 @@
+output
+======
+8e 8e ba 3b b8 ea 23 a8 a2 e3 ba e3 a3 aa 2b 8e ae 3b ae 3b a8 ea 80
+
+secret
+======
+b8ea8eba3a88ae8ee8aa28bbb8eb8ba8ee3a3bb8bba3bae2e8a8e2b8ab8bb8eae3aee3ba80
+
+matrix
+======
+08000000000000000c000000080000000e000000140000000a00000022000000040000002c0000000c000000300000000c0000003c0000000a00000048000000060000005200000010000000580000000c000000680000000c000000740000000a00000080000000080000008a0000000e000000920000000e000000a000000010000000ae0000000a000000be00000008000000c800000006000000d00000000a000000d60000000c000000e00000000c000000ec0000000e000000f800000010000000060100000e00000016010000040000002401
+
+
+
+
+int isValid(int char) {
+    if (char > 96 && char < 123) { // lower
+            return 1;
+    }
+    if (char > 64 && char < 91) { // upper
+        return 1;
+    }
+    if (char == 32) { // space
+        return 1;
+    }
+    else {
+        return 0;
+    }
+}
+
+int encode() {
+    goto loc_b02;
+
+  while true
+
+    if (flag_index >= flag_size)
+        while (remain != 7) {
+            save(0);
+        }
+        rax = remain;
+        return rax;
+
+    var_1 = flag[flag_index];
+    if (isValid(var_1) == 0)
+        fwrite("Error, I don't know why I crashed\n", 0x1, 0x22, *stderr@@GLIBC_2.2.5);
+        rax = exit(0x1);
+        return rax;
+
+    var_1 = lower(var_1);
+    if (var_1 == 32) {
+            var_1 = 123;
+    }
+    var_8 = *((var_1 - 0x61) * 0x8 + 0xdc4);
+    var_C = *((var_1 - 0x61) * 0x8 + matrix) + var_8;
+    while (var_8 < var_C) {
+            save(getValue(var_8));
+            var_8++;
+    }
+    *flag_index++;
+    goto loc_b02;
+}
+
+int getValue(int arg0) {
+    var_14 = arg0;
+    rax = var_14;
+    rdx = rax + 0x7;
+    if (rax < 0x0) {
+            rax = rdx;
+    }
+    rax = *(int8_t *)(sign_extend_64(SAR(rax, 0x3)) + secret) & 0xff;
+    rax = SAR((rax & 0xff), (0x7 - (var_14 + ((var_14 & 0x80000000 ? 0xffffffff : 0x0) >> 0x1d) & 0x7)) + ((var_14 & 0x80000000 ? 0xffffffff : 0x0) >> 0x1d)) & 0xff & 0x1;
+    return rax;
+}
+
+int lower(int arg0) {
+    char = arg0;
+    if ((char > 0x40) && (char <= 0x5a)) {
+            rax = (char & 0xff) + 0x20;
+    }
+    else {
+            rax = char & 0xff;
+    }
+    return rax;
+}
+

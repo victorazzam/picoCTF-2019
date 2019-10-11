@@ -1,0 +1,2 @@
+$ strings pico_img.png | grep pico
+picoCTF{s0_m3ta_74e57c5c}

@@ -1,0 +1,52 @@
+int main() {
+    var_50 = fopen("flag.txt", 0x2008);
+    var_48 = fopen("mystery.png", 0x2013);
+    var_40 = fopen("mystery2.png", 0x2013);
+    var_38 = fopen("mystery3.png", 0x2013);
+    if (var_50 == 0x0) {
+            puts("No flag found, please make sure this is run on the server");
+    }
+    if (var_48 == 0x0) {
+            puts("mystery.png is missing, please run this on the server");
+    }
+    fread(&var_30, 0x1a, 0x1, var_50);
+    fputc(sign_extend_64(var_2F & 0xff), var_38);
+    fputc(sign_extend_64((SAR((0x2a & 0xff) + ((0x2a & 0xff) >> 0x7), 0x1) & 0xff) + (var_30 & 0xff & 0xff & 0xff)), var_40);
+    fputc(sign_extend_64(var_2E & 0xff), var_38);
+    var_63 = var_2D & 0xff;
+    fputc(sign_extend_64(var_2B & 0xff), var_38);
+    fputc(sign_extend_64(var_2C & 0xff), var_48);
+    for (var_60 = 0x6; var_60 <= 0x9; var_60 = var_60 + 0x1) {
+            var_63 = (var_63 & 0xff) + 0x1;
+            fputc(sign_extend_64(*(int8_t *)(rbp + (sign_extend_32(var_60) - 0x30)) & 0xff), var_48);
+    }
+    fputc(sign_extend_64(var_63), var_40);
+    for (var_5C = 0xa; var_5C <= 0xe; var_5C = var_5C + 0x1) {
+            fputc(sign_extend_64(*(int8_t *)(rbp + (sign_extend_32(var_5C) - 0x30)) & 0xff), var_38);
+    }
+    for (var_58 = 0xf; var_58 <= 0x19; var_58 = var_58 + 0x1) {
+            fputc(sign_extend_64(*(int8_t *)(rbp + (sign_extend_32(var_58) - 0x30)) & 0xff), var_48);
+    }
+    fclose(var_48);
+    fclose(var_50);
+    rax = *0x28 ^ *0x28;
+    if (rax != 0x0) {
+            rax = __stack_chk_fail();
+    }
+    return rax;
+}
+
+Key commands
+============
+• truncate -s 125043
+• hexdump -C mystery.png | tail
+
+Test
+====
+picoCTF{AbCdEfGhIjKlMnOpQ}
+CF{AbhIjKlMnOpQ}ÖsicTCdEfG
+
+Flag
+====
+picoCTF{An0tha_1_b3ee41ac}
+CF{An1_b3ee41ac}ÖsicT0tha_

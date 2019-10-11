@@ -1,0 +1,7 @@
+Parts that needed fixing:
+• Magic bytes
+• IHDR header name
+• pHYs header checksum
+• IHDR header name and length
+
+picoCTF{c0rrupt10n_1847995}

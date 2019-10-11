@@ -1,0 +1,26 @@
+Notes
+=====
+Patched at 0x00000000 to bypass login()
+>>> with open("mystery") as f, open("mystery.patched", "w") as g:
+...     a = f.read()
+...     g.write(a[:0x10fd] + "\x90" * 5 + a[0x10fd+5:])
+
+output
+======
+ba a3 ae bb 8a 3a ab 8e  aa 3a eb b8 ea 8e aa e2
+ea e8 ea b8 ea b8 ea b8  ea b8 ea b8 ea b8 ea b8
+ea b8 ea b8 ea b8 ea b8  ba e8 ba e8 ea a2 ee ee
+3a ae 3a ba 2e ba e3 ab  a0
+
+ZmFrZWF1dGhzaXRl.com.us-east-2.compute.internal.
+fakeauthsite....
+
+Sample input of 28 a's
+======================
+ae ee 2b bb 8a ee e2 bb b8
+ae ee 2b bb 8a ee e2 bb b8
+ae ee 2b bb 8a ee e2 bb b8
+ae ee 2b bb 8a ee e2 bb b8
+ae ee 2b bb 8a ee e2 bb b8
+ae ee 2b bb 8a ee e2 bb b8
+ae ee 2b bb 8a ee e2 bb b8

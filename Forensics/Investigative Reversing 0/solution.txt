@@ -1,0 +1,44 @@
+int main() {
+    FLAG = fopen("flag.txt", 0x2008);
+    MYST = fopen("mystery.png", 0x2013);
+    if (FLAG == 0x0) {
+            puts("No flag found, please make sure this is run on the server");
+    }
+    if (MYST == 0x0) {
+            puts("mystery.png is missing, please run this on the server");
+    }
+    rax = fread(&var_30, 0x1a, 0x1, FLAG);
+    if (rax <= 0x0) {
+            rax = exit(0x0);
+    }
+    else {
+            puts("at insert");
+            fputc(var_30, MYST);
+            fputc(var_2F, MYST);
+            fputc(var_2E, MYST);
+            fputc(var_2D, MYST);
+            fputc(var_2C, MYST);
+            fputc(var_2B, MYST);
+            for (i = 6; i < 15; i++) {
+                    fputc(rbp[i - 0x30] + 0x5, MYST);
+            }
+            fputc(var_21 - 0x3, MYST);
+            for (i = 16; i < 26; i++) {
+                    fputc(rbp[i - 0x30], MYST);
+            }
+            fclose(MYST);
+            fclose(FLAG);
+            rax = *0x28 ^ *0x28;
+            if (rax != 0x0) {
+                    rax = __stack_chk_fail();
+            }
+    }
+    return rax;
+}
+
+
+• Mysterious text at the end of mystery.png - picoCTKÄk5zsid6q_e66efc1b}
+• Run ./mystery the same way using picoCTF(00000000000000000) to get picoCTKÄ5555555-000000000}
+• Figure out the rotations used and reverse them
+
+Flag: picoCTF{f0und_1t_e66efc1b}

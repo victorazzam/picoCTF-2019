@@ -1,0 +1,58 @@
+// Changes three's one-th bit to same as in two
+int codedChar(int one, int two, int three) {
+    if (one > 0) {
+            two >>= one;
+    }
+    return three & 0xfe | two & 1;
+}
+
+int main(int arg0, int arg1) {
+    FLAG = fopen("flag.txt", 0x2008);
+    ORIG = fopen("original.bmp", 0x2008);
+    CODE = fopen("encoded.bmp", 0x2020);
+    rax = fread(&var_76, 0x1, 0x1, ORIG);
+    var_74 = rax;
+    for (i = 0; i < 2000; i++) {
+            fputc(var_76, CODE);
+            rax = fread(&var_76, 1, 1, ORIG);
+            var_74 = rax;
+    }
+    rax = fread(&var_40, 0x32, 0x1, FLAG);
+    if (rax <= 0x0) {
+            puts("flag is not 50 chars");
+            rax = exit(0x0);
+    }
+    else {
+            for (i = 0; i < 50; i++) {
+                    for (j = 0; j < 8; j++) {
+                            fputc(codedChar(j, rbp[i - 0x40] - 0x5, var_76), CODE);
+                            rax = fread(&var_76, 0x1, 0x1, ORIG);
+                    }
+            }
+            while (var_74 == 1) {
+                    fputc(sign_extend_64(var_76 & 0xff), CODE);
+                    rax = fread(&var_76, 0x1, 0x1, ORIG);
+                    var_74 = rax;
+            }
+            fclose(CODE);
+            fclose(ORIG);
+            fclose(FLAG);
+            rcx = *0x28 ^ *0x28;
+            if (rcx != 0x0) {
+                    rax = __stack_chk_fail();
+            }
+            else {
+                    rax = 0x0;
+            }
+    }
+    return rax;
+}
+
+• First 2000 bytes are identical between original.bmp and encoded.bmp
+• The rest are being LSB'd sequentially
+• Flag is 50 bytes long, so 400 bits
+• The bits are taken right to left, and placed left to right
+• Each character is also decreased by a value of 5
+• Extract with Python, revert back to unmodified text, and win a flag
+
+Flag: picoCTF{n3xt_0n300000000000000000000000006c732cee}

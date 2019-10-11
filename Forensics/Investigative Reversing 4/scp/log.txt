@@ -1,0 +1,3197 @@
+$3 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$4 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$5 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$6 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$7 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$8 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$9 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$10 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$11 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$12 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$13 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$14 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$15 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$16 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$17 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$18 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$19 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$20 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$21 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$22 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$23 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$24 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$25 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$26 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$27 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$28 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$29 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$30 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$31 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$32 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$33 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$34 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$35 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$36 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$37 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$38 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$39 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$40 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$41 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$42 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$43 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$44 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$45 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$46 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$47 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$48 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$49 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$50 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$51 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$52 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$53 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$54 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$55 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$56 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$57 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$58 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$59 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$60 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$61 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$62 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$63 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$64 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$65 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$66 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$67 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$68 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$69 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$70 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$71 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$72 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$73 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$74 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$75 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$76 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$77 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$78 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$79 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$80 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$81 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft 0 Oct  8 02:27 Item05_cp.bmp
+$82 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$83 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$84 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$85 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$86 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$87 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$88 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$89 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$90 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$91 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$92 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$93 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$94 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$95 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$96 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$97 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$98 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$99 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$100 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$101 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$102 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$103 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$104 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$105 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$106 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$107 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$108 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$109 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$110 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$111 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$112 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$113 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$114 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$115 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$116 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$117 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$118 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$119 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$120 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$121 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$122 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$123 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$124 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$125 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$126 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$127 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$128 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$129 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$130 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$131 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$132 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$133 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$134 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$135 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$136 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$137 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$138 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$139 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$140 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$141 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$142 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$143 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$144 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$145 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$146 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$147 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$148 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$149 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$150 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$151 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$152 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$153 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$154 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$155 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$156 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$157 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$158 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$159 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$160 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$161 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$162 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$163 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$164 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$165 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$166 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$167 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$168 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$169 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$170 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$171 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$172 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$173 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$174 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$175 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$176 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$177 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$178 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$179 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$180 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$181 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$182 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$183 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$184 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$185 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$186 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$187 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$188 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$189 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$190 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$191 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$192 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$193 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$194 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$195 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$196 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$197 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$198 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$199 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$200 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$201 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$202 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$203 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$204 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$205 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$206 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$207 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$208 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$209 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$210 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$211 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$212 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$213 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$214 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$215 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$216 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$217 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$218 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$219 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$220 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$221 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$222 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$223 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$224 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$225 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$226 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$227 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$228 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$229 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$230 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$231 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$232 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$233 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$234 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$235 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$236 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$237 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$238 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$239 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$240 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$241 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$242 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$243 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$244 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$245 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$246 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$247 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$248 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$249 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$250 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$251 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$252 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$253 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$254 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$255 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$256 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$257 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$258 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$259 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$260 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$261 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$262 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$263 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$264 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$265 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$266 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$267 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$268 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$269 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$270 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$271 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$272 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$273 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$274 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$275 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$276 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$277 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$278 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$279 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$280 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$281 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$282 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$283 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$284 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$285 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$286 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$287 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$288 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$289 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$290 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$291 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$292 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$293 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$294 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$295 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$296 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$297 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$298 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$299 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$300 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$301 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$302 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$303 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$304 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$305 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$306 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$307 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$308 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$309 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$310 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$311 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$312 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$313 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$314 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$315 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$316 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$317 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$318 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$319 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$320 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$321 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:32 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$322 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$323 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$324 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$325 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$326 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$327 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$328 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$329 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$330 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$331 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$332 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$333 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$334 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$335 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$336 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$337 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$338 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$339 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$340 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$341 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$342 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$343 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$344 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$345 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$346 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$347 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$348 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$349 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$350 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$351 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$352 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$353 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$354 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$355 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$356 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$357 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$358 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$359 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$360 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$361 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$362 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$363 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$364 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$365 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$366 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$367 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$368 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$369 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$370 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$371 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$372 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$373 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$374 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$375 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$376 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$377 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$378 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$379 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$380 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$381 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$382 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$383 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$384 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$385 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$386 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$387 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$388 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$389 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$390 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$391 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$392 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$393 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$394 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$395 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$396 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$397 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$398 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$399 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$400 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$401 = 110001
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()
+(gdb)
+Continuing.
+-rw-r----- 1 sandwitchcraft sandwitchcraft    0 Oct  8 02:33 Item01_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:33 Item02_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item03_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item04_cp.bmp
+-rw-r----- 1 sandwitchcraft sandwitchcraft 5000 Oct  8 02:32 Item05_cp.bmp
+$402 = 110000
+
+Breakpoint 7, 0x000055555555493f in encodeDataInFile ()

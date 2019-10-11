@@ -1,0 +1,57 @@
+int main(int arg0, int arg1) {
+    FLAG = fopen("flag.txt", 0x2008);
+    ORIG = fopen("original.bmp", 0x2008);
+    CODE = fopen("encoded.bmp", 0x2020);
+    if (FLAG == 0x0) {
+            puts("No flag found, please make sure this is run on the server");
+    }
+    if (ORIG == 0x0) {
+            puts("No output found, please run this on the server");
+    }
+    rax = fread(&var_76, 0x1, 0x1, ORIG);
+    var_74 = rax;
+    for (i = 0; i < 723; i++) {
+            fputc(sign_extend_64(var_76 & 0xff), CODE);
+            rax = fread(&var_76, 0x1, 0x1, ORIG);
+            var_74 = rax;
+    }
+    rax = fread(&var_40, 0x32, 0x1, FLAG);
+    if (rax <= 0x0) {
+            puts("Invalid Flag");
+            rax = exit(0x0);
+    }
+    else {
+            for (i = 0; i < 100; i++) {
+                    if (i & 1 == 0) {
+                            for (j = 0; j < 8; j++) {
+                                    fputc(codedChar(j, rbp[SAR(i, 1) - 0x40], var_76), CODE);
+                                    rax = fread(&var_76, 0x1, 0x1, ORIG);
+                            }
+                    }
+                    else {
+                            fputc(var_76, CODE);
+                            rax = fread(&var_76, 0x1, 0x1, ORIG);
+                    }
+            }
+            while (var_74 == 0x1) {
+                    fputc(sign_extend_64(var_76 & 0xff), CODE);
+                    rax = fread(&var_76, 0x1, 0x1, ORIG);
+                    var_74 = rax;
+            }
+            fclose(CODE);
+            fclose(ORIG);
+            fclose(FLAG);
+            rcx = *0x28 ^ *0x28;
+            if (rcx != 0x0) {
+                    rax = __stack_chk_fail();
+            }
+            else {
+                    rax = 0x0;
+            }
+    }
+    return rax;
+}
+
+• Flag must be 50 chars long and the first 723 bytes are ignored
+
+Flag:

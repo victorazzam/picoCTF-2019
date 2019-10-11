@@ -1,0 +1,110 @@
+Extraction
+==========
+p c C F N c _ 3 e 5 n _ k 1 5 0 0 0 0 0 0 b b a a
+
+ 112 144   6  99 255   6  67  64   5  70 176   7  78  16   3
+  99  48   3  95  47   5  51  96   7 101  32   7  53  16   3
+ 110 112   6  95  95   3 107  16   3  49  16   3  53 240   5
+  48   0   3  48  15   3  48   0   3  48   0   3  48   0   3
+  48  96   3  98  63   3  98 144   3  97 128   3  97 208   7
+
+144-6 255-6 64-5 176-7
+    i     o    T     {
+
+
+Logic
+=====
+• The algorithm was figured out with an input of: AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYy
+• Log file contains gdb output of captured characters in reverse binary form
+• Collect the rightmost character from each line that starts with $
+
+>>> # a-16-6 b-32-6 c-48-6 d-64-6 e-80-6 f-96-6 g-112-6 h-128-6 i-144-6 j-160-6
+>>> # k-176-6 l-192-6 m-208-6 n-224-6 o-240-6 p-0-7 q-16-7 r-32-7 s-48-7 t-64-7
+>>> # u-80-7 v-96-7 w-112-7 x-128-7 y-144-7
+
+
+Flag: picoCTF{N1c3_R3ver51ng_5k1115_000000000006b3b9a8a}
+
+
+Reversed
+========
+int codedChar(int arg0, int arg1, int arg2) {
+    var_14 = arg0;
+    var_18 = arg1;
+    var_1C = arg2;
+    if (var_14 != 0x0) {
+            var_18 = SAR(sign_extend_64(var_18), var_14);
+    }
+    rax = (var_1C & 0xfe & 0xff | var_18 & 0x1 & 0xff & 0xff) & 0xff;
+    return rax;
+}
+
+int encodeDataInFile(int arg0, int arg1) {
+    var_18 = fopen(arg0, 0xbc8); // mode: r
+    var_20 = fopen(arg1, 0xbca); // mode: a
+    if (var_18 == 0x0) {
+            puts("No output found, please run this on the server");
+            rax = exit(0x0);
+    }
+    else {
+            rax = fread(&var_26, 0x1, 0x1, var_18);
+            var_4 = rax;
+            for (i = 0; i < 2019; i++) {
+                    fputc(var_26, var_20);
+                    rax = fread(&var_26, 1, 1, var_18);
+                    var_4 = rax;
+            }
+            for (i = 0; i < 50; i++) {
+                    if (i == (SAR(i * 0x66666667, 1) - SAR(i, 31) << 2) + SAR(i * 0x66666667, 1) - SAR(i, 31)) {
+                            for (j = 0; j < 8; j++) {
+                                    fputc(codedChar(j, *flag_index + *flag, var_26), var_20);
+                                    rax = fread(&var_26, 1, 1, var_18);
+                            }
+                            *flag_index = *flag_index++;
+                    }
+                    else {
+                            fputc(var_26, var_20);
+                            rax = fread(&var_26, 0x1, 0x1, var_18);
+                    }
+            }
+            while (var_4 == 0x1) {
+                    fputc(var_26, var_20);
+                    rax = fread(&var_26, 1, 1, var_18);
+                    var_4 = rax;
+            }
+            fclose(var_20);
+            rax = fclose(var_18);
+    }
+    return rax;
+}
+
+int encodeAll() {
+    rax = 0x622e31306d657449;
+    var_40 = rax;
+    for (var_1 = 0x35; var_1 > 0x30; var_1 = rax) {
+            var_20 = 0x635f31306d657449;
+            rax = encodeDataInFile(&var_40, &var_20);
+            rax = (var_1 & 0xff) - 0x1;
+    }
+    return rax;
+}
+
+int main(int arg0, int arg1) {
+    *flag = &var_40;
+    var_44 = 0x0;
+    *flag_index = &var_44;
+    var_8 = fopen("flag.txt", 0xbc8);
+    if (var_8 == 0x0) {
+            puts("No flag found, please make sure this is run on the server");
+    }
+    if (fread(*flag, 0x32, 0x1, var_8) <= 0x0) {
+            puts("Invalid Flag");
+            rax = exit(0x0);
+    }
+    else {
+            fclose(var_8);
+            encodeAll();
+            rax = 0x0;
+    }
+    return rax;
+}
