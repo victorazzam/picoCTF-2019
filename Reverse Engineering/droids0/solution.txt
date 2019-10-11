@@ -1,0 +1,6 @@
+• Download Android Studio and import APK
+• Run the app on a real or emulated phone
+• Press the button
+• Check the console
+
+Flag: picoCTF{a.moose.once.bit.my.sister}

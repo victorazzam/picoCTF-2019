@@ -1,0 +1,17 @@
+• http://www.javadecompilers.com/apk
+• Check /decompiled/sources/com/hellocmu/picoctf/FlagstaffHill.java
+• Reverse engineer with some scripting
+• Password: dismass.ogg.weatherwax.aching.nitt.garlick
+
+Flag: picoCTF{what.is.your.favourite.colour}
+
+Python interpretation of FlagstaffHill.java
+===========================================
+>>> second = 3 - 3
+>>> third = (3 // 3) + second
+>>> fourth = (third + third) - second
+>>> fifth = 3 + fourth
+>>> sixth = (fifth + second) - third
+>>> witches = ["weatherwax", "ogg", "garlick", "nitt", "aching", "dismass"]
+>>> ".".join(witches[x] for x in (fifth, third, second, sixth, 3, fourth))
+'dismass.ogg.weatherwax.aching.nitt.garlick'

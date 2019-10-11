@@ -1,0 +1,6 @@
+• Use apktool
+• Password needed, check /smali/com/hellocmu/picoctf/FlagstaffHill.smali
+• String values are stored in /res/values/strings.xml
+• Password: opossum
+
+Flag: picoCTF{pining.for.the.fjords}
